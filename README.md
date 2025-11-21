@@ -15,6 +15,14 @@
 
 ---
 
+## 🌐 Live Demo
+
+**[🚀 View Live Demo →](https://692050b5fe6114ce55d207db--imaginative-kelpie-f520f4.netlify.app/)**
+
+Experience Taskment in action: **[https://692050b5fe6114ce55d207db--imaginative-kelpie-f520f4.netlify.app/](https://692050b5fe6114ce55d207db--imaginative-kelpie-f520f4.netlify.app/)**
+
+---
+
 ## 📋 Overview
 
 Taskment is a premium task management dashboard that combines beautiful design with practical functionality. Built entirely with vanilla web technologies, it showcases modern frontend development techniques including glassmorphism effects, smooth animations, drag-and-drop interactions, and persistent local storage.
@@ -258,9 +266,6 @@ Potential features to add:
 
 ---
 
-## 📝 Documentation
-
-For interview preparation and detailed technical explanations, see [INTERVIEW_GUIDE.md](INTERVIEW_GUIDE.md)
 
 ---
 
@@ -296,14 +301,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ## 👨‍💻 Author
-
-**Your Name**
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
+Abhishek Kumar
 
 ## 🙏 Acknowledgments
 
@@ -313,14 +311,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 📞 Support
 
-If you have any questions or suggestions:
-- Open an issue on GitHub
-- Contact via email
-- Connect on LinkedIn
-
----
 
 ## ⭐ Show Your Support
 
